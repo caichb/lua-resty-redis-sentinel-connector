@@ -1,2 +1,2 @@
 # lua-resty-redis-sentinel-connector
-openresty sentinel drive base on lua-resty-redis
+openresty sentinel drive based on lua-resty-redis
